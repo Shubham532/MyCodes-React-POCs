@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "title":"React  Training",
+        "feed":"React is an open-source JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications "
+    },
+    {
+        "id":2,
+        "title":"Ios Developer training ",
+        "feed":"To develop iOS apps, you need a Mac computer running the latest version of Xcode. ... Xcode is the graphical interface you'll use to write iOS apps."
+    },
+    {
+        "id":3,
+        "title":"Angular Training",
+        "feed":"Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS"
+    },
+    {
+        "id":4,
+        "title":"Hybrid Application training",
+        "feed":"A (hybrid app) is a software application that combines elements of both native apps and web applications. Hybrid apps are essentially web apps that have been put in a native app shell."
+    },
+    {
+        "id":5,
+        "title":"Fullstack developer training",
+        "feed":"software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) ... Program a database (like using SQL, SQLite, or MongoDB)"
+    }
+
+]
